@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://superollait.github.io/leonida-report/sitemap.xml
