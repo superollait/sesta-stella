@@ -1,8 +1,8 @@
 
-@font-face{font-family:Anton;src:url(/leonida-report/font/anton-latin-400-normal.woff2) format('woff2');font-display:swap}
-@font-face{font-family:Inter;font-weight:400;src:url(/leonida-report/font/inter-latin-400-normal.woff2) format('woff2');font-display:swap}
-@font-face{font-family:Inter;font-weight:600;src:url(/leonida-report/font/inter-latin-600-normal.woff2) format('woff2');font-display:swap}
-@font-face{font-family:Inter;font-weight:800;src:url(/leonida-report/font/inter-latin-800-normal.woff2) format('woff2');font-display:swap}
+@font-face{font-family:Anton;src:url(/sesta-stella/font/anton-latin-400-normal.woff2) format('woff2');font-display:swap}
+@font-face{font-family:Inter;font-weight:400;src:url(/sesta-stella/font/inter-latin-400-normal.woff2) format('woff2');font-display:swap}
+@font-face{font-family:Inter;font-weight:600;src:url(/sesta-stella/font/inter-latin-600-normal.woff2) format('woff2');font-display:swap}
+@font-face{font-family:Inter;font-weight:800;src:url(/sesta-stella/font/inter-latin-800-normal.woff2) format('woff2');font-display:swap}
 :root{--ink:#0b0612;--night:#160a26;--card:#1d1030;--line:#33204d;--txt:#ece6f5;--mut:#a99bbf;--mag:#ff2e88;--ora:#ff8a3d;--gold:#ffd166;--green:#2ee59d;--cyan:#3df2ff}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--ink);color:var(--txt);font:400 18px/1.7 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased}
